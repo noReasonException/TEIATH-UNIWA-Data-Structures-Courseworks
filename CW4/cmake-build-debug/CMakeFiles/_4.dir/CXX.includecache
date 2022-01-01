@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stefstef/Desktop/ΔομεςΕργασιες/Εργασία 4/Tree/Tree.h
+stdio.h
+-
+iostream
+-
+queue
+-
+
+/home/stefstef/Desktop/ΔομεςΕργασιες/Εργασία 4/main.cpp
+iostream
+-
+Tree/Tree.h
+/home/stefstef/Desktop/ΔομεςΕργασιες/Εργασία 4/Tree/Tree.h
+
